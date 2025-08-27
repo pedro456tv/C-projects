@@ -1,0 +1,5 @@
+C:/Users/PC1/CLionProjects/Tinder/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/PC1/CLionProjects/Tinder/cmake-build-debug/CMakeFiles/gtest.dir
+C:/Users/PC1/CLionProjects/Tinder/cmake-build-debug/CMakeFiles/exercise8.dir
+C:/Users/PC1/CLionProjects/Tinder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC1/CLionProjects/Tinder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

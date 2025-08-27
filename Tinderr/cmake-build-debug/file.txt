@@ -1,0 +1,14 @@
+45,ejvo,adawdaw,BRATISLAVA,g@cc,
+25,Dejvo,adawdaw,BRATISLAVA,kg@cc,
+25,Dejvo,adawdaw,BRATISLAVA,king@cc,
+25,Dejo,adawdaw,KOSICE,kng@cc,
+
+
+g@cc,
+g@cc,
+kg@cc,
+kg@cc,
+king@cc,kng@cc
+king@cc,kng@cc
+kng@cc,king@cc
+kng@cc,king@cc
